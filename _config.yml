@@ -1,0 +1,14 @@
+title: Manish Oza
+description: Assistant Professor, Faculty of Law, University of Western Ontario
+url: "https://www.manishoza.ca"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /:name/
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
