@@ -46,9 +46,6 @@ If using a custom domain (manishoza.ca):
 
 ## Adding Content
 
-### Research & Teaching pages
-Edit `_pages/research.md` and `_pages/teaching.md` — they use standard Markdown.
-
 ### PDF files
 Place any PDF files (CV, papers, etc.) in `assets/pdf/` and link to them like:
 ```markdown
