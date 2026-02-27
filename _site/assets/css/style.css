@@ -83,8 +83,8 @@ a:hover { text-decoration: underline; }
     flex-direction: column;
   }
   .sidebar-top      { order: 1; border-right: none; padding: 1.5rem; }
-  .content-about    { order: 2; padding: 0 1.5rem; }
-  .sidebar-research { order: 3; border-right: none; border-top: 1px solid #ddd6cc; padding: 1.5rem; }
+  .content-about    { order: 3; padding: 0 1.5rem; }
+  .sidebar-research { order: 2; border-right: none; border-top: 1px solid #ddd6cc; padding: 1.5rem; }
   .photo { max-width: 140px; }
   .sidebar-research h2 { padding-top: 0; }
 }
