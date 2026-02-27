@@ -23,6 +23,7 @@ a:hover { text-decoration: underline; }
   min-height: 100vh;
 }
 
+
 .sidebar-top      { grid-area: sidebar-top;       border-right: 1px solid #ddd6cc; padding: 2.5rem 2rem 1rem; }
 .sidebar-research { grid-area: sidebar-research;  border-right: 1px solid #ddd6cc; padding: 0 2rem 2.5rem; }
 .content-about    { grid-area: content-about;     padding: 2.5rem 2.5rem; }
