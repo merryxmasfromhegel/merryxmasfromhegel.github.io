@@ -3,34 +3,66 @@ layout: default
 title: Manish Oza
 ---
 
-<section id="about" markdown="1">
+<section id="research" markdown="1">
 
-## About
+## Published Research
 
-I'm an Assistant Professor at the University of Western Ontario, Faculty of Law, cross-appointed to Philosophy.
+### Voluntary associations and the state
 
-My main research project is about the law and political philosophy of voluntary associations, such as clubs, churches, unions and political parties, and how they intersect with the authority of the state. I've written about the [legal personality of groups](/assets/pdf/PPA.pdf), [fairness in associations](/assets/pdf/VARL.pdf) and [when courts should resolve religious disputes](/assets/pdf/JIPL.pdf). Building on this work, I'm particularly interested in exploring associative forms of ownership, as well as political projects that involve them.
+[Justiciability in private law: religion and politics](/assets/pdf/JIPL.pdf), (forthcoming) Osgoode Hall Law Journal
 
-My dissertation was in philosophy of logic, focusing on the relation of logic to thought. I argued that a basic grasp of logical rules is essential to thinking, and that this explains the sense in which [logic is normative](/assets/pdf/VTNL.pdf).
+[Voluntary associations and the rule of law](/assets/pdf/VARL.pdf), (forthcoming) McGill Law Journal
 
-Drawing on this background, I'm also working on legal reasoning. I've written about [how legal fictions work](/assets/pdf/FILR.pdf) and [the rationality of fundamental legal changes](/assets/pdf/CWR.pdf), such as revolutions and constitutional reform. I'm interested in how legal reasoning can be governed by the same norms as other reasoning, but also constrained by its role in solving disputes.
+[The personality of public authorities](/assets/pdf/PPA.pdf), (2024) Law and Philosophy [&rarr;](https://link.springer.com/article/10.1007/s10982-024-09499-z)
 
-For full details of my work, see my [academic CV](/assets/pdf/MOza_CV.pdf).
+### Legal reasoning
 
+[Can we legally revise the highest legal rule?](https://doi.org/10.1017/S135232522510075X), (2025) Legal Theory
 
-</section>
+[Fictions in legal reasoning](https://www.cambridge.org/core/journals/dialogue-canadian-philosophical-review-revue-canadienne-de-philosophie/article/fictions-in-legal-reasoning/A32F7A74C17C894CD1C19BF5A94282C6), (2023) Dialogue
 
-<section id="law-and-language" markdown="1">
+### Logic, rationality and thought
 
-## Law and Language project
+[Agency and theoretical reason in *The Practical Self*](/assets/pdf/ATR.pdf), (2024) Inquiry [&rarr;](https://www.tandfonline.com/doi/full/10.1080/0020174X.2024.2438243)
 
-With my colleague [Andy Yu](https://andydfyu.com/), I co-direct an interdisciplinary speaker series on [law and language](https://www.lawandlanguage.ca), featuring speakers from philosophy, law, linguistics and other disciplines. In 2024, we organized a workshop called ["New Directions in Law and Language"](https://law.uwo.ca/conferences/new_directions_in_law_and_language/index.html).
+[Hegel and formal idealism](https://doi.org/10.1017/hgl.2022.25)
+, (2022) Hegel Bulletin
 
-Here is an [interview](https://lawandlanguage.ca/2025/02/05/interview-with-lindsay-borrows/) I conducted with [Lindsay Borrows](https://law.queensu.ca/directory/lindsay-borrows) on Indigenous law and language.
+[Nonsense: a user's guide](/assets/pdf/NAUG.pdf), (2022) Inquiry [&rarr;](https://doi.org/10.1080/0020174X.2022.2107059)
+
+[The value of thinking and the normativity of logic](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/value-of-thinking-and-the-normativity-of-logic.pdf?c=phimp;idno=3521354.0020.025;format=pdf)
+, (2020) Philosophers' Imprint
+
+### Doctrinal papers, treatise chapters, reports
+
+Advocacy and the Best Interests of Charitable Corporations, (forthcoming) [Law Commission of Canada](https://www.canada.ca/en/law-commission-canada/projects/research-streams.html) (with B Miller)
+
+Intention to contract, (2024) in *Fridman's The Law of Contract in Canada*
+
+[Structural analysis and the Canadian constitution](https://cbr.cba.org/index.php/cbr/article/view/4814/4541), (2023) Canadian Bar Review (with M Rowe) 
+
+[Tort claims against public authorities](https://albertalawreview.com/index.php/ALR/article/view/2709/2656), (2022) Alberta Law Review (with M Rowe)
+
+### Book reviews
+
+Eric Claeys, *Natural Property Rights*, (forthcoming) Law and Philosophy
+
+[Gabriele Badano & Alasia Nuti, *Politicizing Political Liberalism*](https://ndpr.nd.edu/reviews/politicizing-political-liberalism-on-the-containment-of-illiberal-and-antidemocratic-views/), (2025) Notre Dame Philosophical Reviews
+
+[Allan Beever, *Freedom Under the Private Law*](https://doi.org/10.1017/cjlj.2024.18), (2024) Canadian Journal of Law and Jurisprudence
+
+[Daniel Chandler, *Free and Equal*](https://perspectivesjournal.ca/coherent-alternative-for-just-equal-society/), (2024) Perspectives Journal
+
+[Irit Samet, *Equity: Conscience Comes To Market*](/assets/pdf/Equity_MOza.pdf), (2020) University of Toronto Law Journal [&rarr;](https://www.utpjournals.press/doi/full/10.3138/utlj.2019-0084)
+
+### PhD thesis
+
+*Logical Form and the Limits of Thought* (2020)
 
 </section>
 
 <section id="wip" markdown="1">
+
 
 ## Work in Progress
 
@@ -52,5 +84,6 @@ Courses I teach or have taught:
 - Jurisprudence ([reading list](/assets/pdf/Jurisprudence2024ReadingList.pdf))
 - Julius Alexander Isaac Moot (coach)
 - Topics in Philosophy of Law: Pluralism ([syllabus](/assets/pdf/pluralism-syllabus.pdf))
+
 
 </section>
